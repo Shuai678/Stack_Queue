@@ -1,0 +1,16 @@
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\bin\Debug\net8.0-windows\Stack_Queue.exe
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\bin\Debug\net8.0-windows\Stack_Queue.deps.json
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\bin\Debug\net8.0-windows\Stack_Queue.runtimeconfig.json
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\bin\Debug\net8.0-windows\Stack_Queue.dll
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\bin\Debug\net8.0-windows\Stack_Queue.pdb
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\obj\Debug\net8.0-windows\Stack_Queue.Form1.resources
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\obj\Debug\net8.0-windows\Stack_Queue.csproj.GenerateResource.cache
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\obj\Debug\net8.0-windows\Stack_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\obj\Debug\net8.0-windows\Stack_Queue.AssemblyInfoInputs.cache
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\obj\Debug\net8.0-windows\Stack_Queue.AssemblyInfo.cs
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\obj\Debug\net8.0-windows\Stack_Queue.csproj.CoreCompileInputs.cache
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\obj\Debug\net8.0-windows\Stack_Queue.dll
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\obj\Debug\net8.0-windows\refint\Stack_Queue.dll
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\obj\Debug\net8.0-windows\Stack_Queue.pdb
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\obj\Debug\net8.0-windows\Stack_Queue.genruntimeconfig.cache
+C:\Users\shuai.21032\Desktop\Stack_Queue\Stack_Queue\obj\Debug\net8.0-windows\ref\Stack_Queue.dll
