@@ -68,15 +68,16 @@ namespace Stack_Queue
         {
             Thread t = new Thread(this.piuStack);
             t.Start();
-            while (s.Count > 0)
-            {
-                listBox1.Items.Add(s.Pop());
-            }
+
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
             onStack = false;
+            while (s.Count > 0)
+            {
+                listBox1.Items.Add(s.Pop());
+            }
         }
 
         private void button4_Click(object sender, EventArgs e)
